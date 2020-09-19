@@ -1,7 +1,8 @@
 body{
-	background: #668cff;
+	background: img/fondo.png;
 	font-family: arial;
 	color: #fff;
+	
 }
 
 table, th, td{
