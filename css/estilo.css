@@ -1,5 +1,5 @@
 body{
-	background: url(img/fondo.png);
+	background: #017bab;
 	font-family: arial;
 	color: #fff;
 	
@@ -34,4 +34,8 @@ th{
 }
 a{
  color: white;
+}
+
+.lista{
+	display: flex;
 }
