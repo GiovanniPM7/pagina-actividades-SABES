@@ -36,6 +36,19 @@ a{
  color: white;
 }
 
+/*Estilos para el encabezado   3act*/
 .lista{
 	display: flex;
 }
+
+li{
+	/*Para quitar los puntos en el encabezado*/
+	list-style: none;
+
+	margin-right: 25px;
+}
+
+.act3{
+	background: blue;
+}
+
