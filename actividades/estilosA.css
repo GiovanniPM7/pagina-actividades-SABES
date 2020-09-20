@@ -1,0 +1,28 @@
+body{
+	font-family: arial, helvetica;
+	background: #e8e8e8;
+}
+.lista{
+
+	list-style: none;
+	padding: 0;
+	background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
+	width: 90%
+	max-width: 1000px;
+	margin: auto;
+}
+
+.lista li a{
+	text-indent: none;
+	color: black;
+	padding: 20px;
+	display: block;
+}
+.lista li{
+	display: inline-block;
+	text-align: center;
+}
+
+.lista li a:hover{
+	background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
