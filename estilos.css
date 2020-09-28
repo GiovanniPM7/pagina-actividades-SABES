@@ -7,7 +7,7 @@ body{
 .lista{
 	list-style: none;
 	padding: 0;
-	background: rgba(0,0,0,.5);
+	background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
 	width: 90%
 	max-width: 1000px;
 	margin: auto;

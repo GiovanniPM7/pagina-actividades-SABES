@@ -1,8 +1,12 @@
 body{
 	
 	font-family: arial;
+	background: url(../img/Japan.png) no-repeat center center;
 	background: cover;
 	height: 100vh;
+}
+h2{
+	color: black;
 }
 
 table, th, td{
@@ -14,6 +18,11 @@ table, th, td{
 	border-collapse: collapse;
 
 	padding: 7px;
+
+	
+}
+th, td{
+	color: #fff;
 }
 
 th{
@@ -23,13 +32,14 @@ th{
 .tabla2{
 	width: 95%;
 	background: rgba(0,0,0,.5);
+	box-shadow: 9px 13px 20px;
+
 }
 
 .tabla1{
 	margin-bottom: 30px;
 	background: rgba(0,0,0,.5);
-	color: #fff;
-
+	box-shadow: 9px 13px 20px;
 
 }
 a{
