@@ -10,6 +10,7 @@ function mostrarHora(){
 	//salida
 	document.getElementById('mostrarHora').innerHTML = horaImprimible;
 
+	//La funcion se llama asi misma, para que sea Dinamica
 	setTimeout(mostrarHora, 1000)
 }
 
