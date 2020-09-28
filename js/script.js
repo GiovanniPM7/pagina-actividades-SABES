@@ -10,6 +10,7 @@ function mostrarHora(){
 	//salida
 	document.getElementById('mostrarHora').innerHTML = horaImprimible;
 
+	setTimeout(mostrarHora, 1000)
 }
 
 function mostrarFecha(){
