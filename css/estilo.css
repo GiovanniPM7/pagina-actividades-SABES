@@ -2,6 +2,7 @@ body{
 	
 	font-family: arial;
 	background: cover;
+	height: 100vh;
 }
 
 table, th, td{
